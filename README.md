@@ -1,2 +1,4 @@
-# ejercicio_github_dionisiovillarroel
+ejercicio_github_dionisiovillarroel
 prueba piloto github
+
+Alumno: Dionisio Villarroel
